@@ -1,0 +1,3 @@
+/Users/alewis/projects/cs372.lewis.sp22v2/apps/apptemplate/build.macos/CMakeFiles/assignment01.dir
+/Users/alewis/projects/cs372.lewis.sp22v2/apps/apptemplate/build.macos/CMakeFiles/ALL_BUILD.dir
+/Users/alewis/projects/cs372.lewis.sp22v2/apps/apptemplate/build.macos/CMakeFiles/ZERO_CHECK.dir

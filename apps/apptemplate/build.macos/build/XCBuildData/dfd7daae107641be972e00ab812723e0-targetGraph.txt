@@ -1,0 +1,7 @@
+Target dependency graph (3 targets)
+ZERO_CHECK in assignment01, no dependencies
+assignment01 in assignment01, depends on:
+ZERO_CHECK in assignment01 (explicit)
+ALL_BUILD in assignment01, depends on:
+ZERO_CHECK in assignment01 (explicit)
+assignment01 in assignment01 (explicit)
